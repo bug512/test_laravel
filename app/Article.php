@@ -10,6 +10,8 @@ class Article extends Model
     //
     protected $table = 'articles';
 
+    protected $fillable = ['title', 'revision', 'description', 'short_description'];
+
     public function rubric()
     {
         return $this->belongsTo(Rubric::class);
