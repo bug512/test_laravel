@@ -20,11 +20,11 @@
 		<message>Below are the number of rows from each author that have survived and are still intact in the current revision</message>
 		<authors>
 			<author>
-				<name>bug</name>
+				<name>bug512</name>
 				<email>bug512@bk.ru</email>
 				<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
 				<rows>3163</rows>
-				<stability>99.9</stability>
+				<stability>100.0</stability>
 				<age>0.0</age>
 				<percentage-in-comments>40.50</percentage-in-comments>
 			</author>
