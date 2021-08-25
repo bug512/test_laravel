@@ -1,0 +1,50 @@
+<gitinspector>
+	<version>0.5.0dev</version>
+	<repository>project</repository>
+	<report-date>2021/08/25</report-date>
+	<changes>
+		<message>The following historical commit information, by author, was found</message>
+		<authors>
+			<author>
+				<name>bug</name>
+				<email>bug512@bk.ru</email>
+				<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
+				<commits>2</commits>
+				<insertions>3167</insertions>
+				<deletions>4</deletions>
+				<percentage-of-changes>100.00</percentage-of-changes>
+			</author>
+		</authors>
+	</changes>
+	<blame>
+		<message>Below are the number of rows from each author that have survived and are still intact in the current revision</message>
+		<authors>
+			<author>
+				<name>bug</name>
+				<email>bug512@bk.ru</email>
+				<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
+				<rows>3163</rows>
+				<stability>99.9</stability>
+				<age>0.0</age>
+				<percentage-in-comments>40.50</percentage-in-comments>
+			</author>
+		</authors>
+	</blame>
+	<timeline>
+		<message>The following history timeline has been gathered from the repository</message>
+		<periods length="week">
+			<period>
+				<name>2019W05</name>
+				<authors>
+					<author>
+						<name>bug</name>
+						<email>bug512@bk.ru</email>
+						<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
+						<work>++++++++++++++++++++++++</work>
+					</author>
+				</authors>
+				<modified_rows>3171</modified_rows>
+			</period>
+		</periods>
+	</timeline>
+</gitinspector>
