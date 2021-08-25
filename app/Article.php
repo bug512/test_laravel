@@ -32,7 +32,8 @@ class Article extends Model
         return $this->hasMany(Comment::class);
     }
 
-    public function setRevisionAttribute($value) {
+    public function setRevisionAttribute($value)
+    {
         if (isset($this->revision)) {
             $this->attributes['revision'] = env('APP_REVISION', 'default');
         } else {
