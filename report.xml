@@ -1,7 +1,7 @@
 <gitinspector>
 	<version>0.5.0dev</version>
 	<repository>project</repository>
-	<report-date>2021/08/25</report-date>
+	<report-date>2021/08/26</report-date>
 	<changes>
 		<message>The following historical commit information, by author, was found</message>
 		<authors>
