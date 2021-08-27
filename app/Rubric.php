@@ -10,6 +10,9 @@ class Rubric extends Model
 
     protected $fillable = ['title'];
 
+    /**
+     * @return mixed
+     */
     public function articles()
     {
         return $this->hasMany(Article::class);
