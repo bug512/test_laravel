@@ -1,0 +1,19 @@
+
+createarticlestable::downR
+H/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php" "("1*ù
+2-
++2019_01_28_093034_create_articles_table.php"i
+R
+H/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php% %(
+implicit return*¢
+1R
+H/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php$ $()√
+¿
+R
+H/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php$ $((
+%1"/illuminate\support\facades\schema::dropifexists*%"#
+!illuminate\support\facades\schema*
+
+articles*
+2B
+createarticlestable

@@ -1,0 +1,41 @@
+
+\__sonar_lambda_/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php_16_34Q
+G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php" (*"1*›
+2,
+*2019_01_28_093256_create_rubrics_table.php"h
+Q
+G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php (	
+implicit return*ä
+1Q
+G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php (%˜
+•
+Q
+G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php" (*
+$table"__id*0
+.
+$table$illuminate\database\schema\blueprint{y
+Q
+G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php ($
+%1*
+
+
+$table*
+id2
+incrementszx
+Q
+G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php (#
+%2*
+
+
+$table*	
+title2stringsq
+Q
+G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php ( 
+%3*
+
+
+$table2
+timestamps*
+2:.
+$table$illuminate\database\schema\blueprintB
+createrubricstable

@@ -12,16 +12,16 @@
 				<commits>2</commits>
 				<insertions>3167</insertions>
 				<deletions>4</deletions>
-				<percentage-of-changes>91.33</percentage-of-changes>
+				<percentage-of-changes>84.25</percentage-of-changes>
 			</author>
 			<author>
 				<name>bug512</name>
 				<email>bug512@bk.ru</email>
 				<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
-				<commits>1</commits>
+				<commits>2</commits>
 				<insertions>292</insertions>
-				<deletions>0</deletions>
-				<percentage-of-changes>8.41</percentage-of-changes>
+				<deletions>292</deletions>
+				<percentage-of-changes>15.52</percentage-of-changes>
 			</author>
 			<author>
 				<name>mezhennikov</name>
@@ -30,7 +30,7 @@
 				<commits>3</commits>
 				<insertions>8</insertions>
 				<deletions>1</deletions>
-				<percentage-of-changes>0.26</percentage-of-changes>
+				<percentage-of-changes>0.24</percentage-of-changes>
 			</author>
 		</authors>
 	</changes>
@@ -41,10 +41,10 @@
 				<name>bug512</name>
 				<email>bug512@bk.ru</email>
 				<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
-				<rows>3454</rows>
-				<stability>1182.9</stability>
+				<rows>3162</rows>
+				<stability>1082.9</stability>
 				<age>0.0</age>
-				<percentage-in-comments>37.64</percentage-in-comments>
+				<percentage-in-comments>40.51</percentage-in-comments>
 			</author>
 			<author>
 				<name>mezhennikov</name>
@@ -79,7 +79,7 @@
 						<name>bug512</name>
 						<email>bug512@bk.ru</email>
 						<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
-						<work>++++++++++++++++++++++++</work>
+						<work>------------++++++++++++</work>
 					</author>
 					<author>
 						<name>mezhennikov</name>
@@ -88,7 +88,7 @@
 						<work>.</work>
 					</author>
 				</authors>
-				<modified_rows>301</modified_rows>
+				<modified_rows>593</modified_rows>
 			</period>
 		</periods>
 	</timeline>

@@ -1,0 +1,70 @@
+
+^__sonar_lambda_/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php_16_36S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php$ (,"1*Ÿ
+2.
+,2019_01_28_144717_create_taggables_table.php"j
+S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (	
+implicit return*	
+1S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (%š
+—
+S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php$ (,
+$table"__id*0
+.
+$table$illuminate\database\schema\blueprint}{
+S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php ($
+%1*
+
+
+$table*
+id2
+increments”‘
+S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (2
+%2*
+
+
+$table*
+
+tag_id*	
+false*
+true2integerom
+S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (>
+%3*
+
+%22nullable™–
+S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (7
+%4*
+
+
+$table*
+taggable_id*	
+false*
+true2integerom
+S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (C
+%5*
+
+%42nullable…‚
+S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (+
+%6*
+
+
+$table*
+taggable_type2stringus
+S
+I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php ( 
+%7*
+
+
+$table2
+timestamps*
+2:.
+$table$illuminate\database\schema\blueprintB
+createtaggablestable
