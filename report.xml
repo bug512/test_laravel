@@ -12,7 +12,16 @@
 				<commits>2</commits>
 				<insertions>3167</insertions>
 				<deletions>4</deletions>
-				<percentage-of-changes>99.72</percentage-of-changes>
+				<percentage-of-changes>91.33</percentage-of-changes>
+			</author>
+			<author>
+				<name>bug512</name>
+				<email>bug512@bk.ru</email>
+				<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
+				<commits>1</commits>
+				<insertions>292</insertions>
+				<deletions>0</deletions>
+				<percentage-of-changes>8.41</percentage-of-changes>
 			</author>
 			<author>
 				<name>mezhennikov</name>
@@ -21,7 +30,7 @@
 				<commits>3</commits>
 				<insertions>8</insertions>
 				<deletions>1</deletions>
-				<percentage-of-changes>0.28</percentage-of-changes>
+				<percentage-of-changes>0.26</percentage-of-changes>
 			</author>
 		</authors>
 	</changes>
@@ -32,10 +41,10 @@
 				<name>bug512</name>
 				<email>bug512@bk.ru</email>
 				<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
-				<rows>3162</rows>
-				<stability>100.0</stability>
+				<rows>3454</rows>
+				<stability>1182.9</stability>
 				<age>0.0</age>
-				<percentage-in-comments>40.51</percentage-in-comments>
+				<percentage-in-comments>37.64</percentage-in-comments>
 			</author>
 			<author>
 				<name>mezhennikov</name>
@@ -67,13 +76,19 @@
 				<name>2021W34</name>
 				<authors>
 					<author>
+						<name>bug512</name>
+						<email>bug512@bk.ru</email>
+						<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
+						<work>++++++++++++++++++++++++</work>
+					</author>
+					<author>
 						<name>mezhennikov</name>
 						<email>mezhennikov@gmail.com</email>
 						<gravatar>https://www.gravatar.com/avatar/45cb6f84eb36d2da4ca950f3061fd0a5?default=identicon</gravatar>
-						<work>--+++++++++++++++++++++</work>
+						<work>.</work>
 					</author>
 				</authors>
-				<modified_rows>9</modified_rows>
+				<modified_rows>301</modified_rows>
 			</period>
 		</periods>
 	</timeline>

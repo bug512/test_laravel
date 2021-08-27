@@ -1,7 +1,0 @@
-organization=bug512
-projectKey=bug512
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.22868
-dashboardUrl=https://sonarcloud.io/dashboard?id=bug512
-ceTaskId=AXuJqM7KGlTjvkBkH1I2
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXuJqM7KGlTjvkBkH1I2

@@ -1,26 +1,0 @@
-
-createrubricstable::upQ
-G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php ("1*›
-2,
-*2019_01_28_093256_create_rubrics_table.php"h
-Q
-G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php (
-implicit return*õ
-1Q
-G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php (Ñ
-Î
-Q
-G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php" (	
-%1"__declareFunction*`^
-\__sonar_lambda_/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php_16_34Ã
-À
-Q
-G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php (
-
-%2")illuminate\support\facades\schema::create*%"#
-!illuminate\support\facades\schema*	
-rubrics*
-
-%1*
-2B
-createrubricstable

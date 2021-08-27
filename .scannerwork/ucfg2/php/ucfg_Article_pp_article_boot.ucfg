@@ -1,34 +1,0 @@
-
-app\article::boot"
-/usr/src/app/Article.php1 1(""1*M
-2
-Article.php"9
-"
-/usr/src/app/Article.php6 6(
-implicit return*”
-1"
-/usr/src/app/Article.php3 3(g
-e
-"
-/usr/src/app/Article.php3 3(
-%1"(illuminate\database\eloquent\model::boot*
-app\articleFD
-"
-/usr/src/app/Article.php5 5(2
-%2"app\scopes\revisionscope[
-Y
-"
-/usr/src/app/Article.php5 5(2
-%3"%app\scopes\revisionscope::__construct*
-
-%2X
-V
-"
-/usr/src/app/Article.php5 5(3
-%4"static::addglobalscope*
-"
-static*
-
-%2*
-2B
-app\article
