@@ -12,16 +12,16 @@
 				<commits>2</commits>
 				<insertions>3167</insertions>
 				<deletions>4</deletions>
-				<percentage-of-changes>99.91</percentage-of-changes>
+				<percentage-of-changes>99.81</percentage-of-changes>
 			</author>
 			<author>
 				<name>mezhennikov</name>
 				<email>mezhennikov@gmail.com</email>
 				<gravatar>https://www.gravatar.com/avatar/45cb6f84eb36d2da4ca950f3061fd0a5?default=identicon</gravatar>
-				<commits>1</commits>
-				<insertions>2</insertions>
+				<commits>2</commits>
+				<insertions>5</insertions>
 				<deletions>1</deletions>
-				<percentage-of-changes>0.09</percentage-of-changes>
+				<percentage-of-changes>0.19</percentage-of-changes>
 			</author>
 		</authors>
 	</changes>
@@ -41,10 +41,10 @@
 				<name>mezhennikov</name>
 				<email>mezhennikov@gmail.com</email>
 				<gravatar>https://www.gravatar.com/avatar/45cb6f84eb36d2da4ca950f3061fd0a5?default=identicon</gravatar>
-				<rows>2</rows>
+				<rows>5</rows>
 				<stability>100.0</stability>
-				<age>0.0</age>
-				<percentage-in-comments>0.00</percentage-in-comments>
+				<age>0.1</age>
+				<percentage-in-comments>60.00</percentage-in-comments>
 			</author>
 		</authors>
 	</blame>
@@ -70,10 +70,10 @@
 						<name>mezhennikov</name>
 						<email>mezhennikov@gmail.com</email>
 						<gravatar>https://www.gravatar.com/avatar/45cb6f84eb36d2da4ca950f3061fd0a5?default=identicon</gravatar>
-						<work>--------++++++++++++++++</work>
+						<work>----++++++++++++++++++++</work>
 					</author>
 				</authors>
-				<modified_rows>3</modified_rows>
+				<modified_rows>6</modified_rows>
 			</period>
 		</periods>
 	</timeline>
