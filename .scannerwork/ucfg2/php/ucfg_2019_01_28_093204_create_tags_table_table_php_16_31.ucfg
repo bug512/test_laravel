@@ -1,0 +1,41 @@
+
+Y__sonar_lambda_/usr/src/database/migrations/2019_01_28_093204_create_tags_table.php_16_31N
+D/usr/src/database/migrations/2019_01_28_093204_create_tags_table.php ('"1*•
+2)
+'2019_01_28_093204_create_tags_table.php"e
+N
+D/usr/src/database/migrations/2019_01_28_093204_create_tags_table.php (	
+implicit return*Õ
+1N
+D/usr/src/database/migrations/2019_01_28_093204_create_tags_table.php (%•
+’
+N
+D/usr/src/database/migrations/2019_01_28_093204_create_tags_table.php ('
+$table"__id*0
+.
+$table$illuminate\database\schema\blueprintxv
+N
+D/usr/src/database/migrations/2019_01_28_093204_create_tags_table.php ($
+%1*
+
+
+$table*
+id2
+incrementswu
+N
+D/usr/src/database/migrations/2019_01_28_093204_create_tags_table.php (#
+%2*
+
+
+$table*	
+title2stringpn
+N
+D/usr/src/database/migrations/2019_01_28_093204_create_tags_table.php ( 
+%3*
+
+
+$table2
+timestamps*
+2:.
+$table$illuminate\database\schema\blueprintB
+createtagstable

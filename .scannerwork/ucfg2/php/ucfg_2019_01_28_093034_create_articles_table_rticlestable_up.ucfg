@@ -1,0 +1,27 @@
+
+createarticlestable::upR
+H/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php ("1*
+2-
++2019_01_28_093034_create_articles_table.php"i
+R
+H/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php (
+implicit return*ú
+1R
+H/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php (Ó
+Ğ
+R
+H/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php# (	
+%1"__declareFunction*a_
+]__sonar_lambda_/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php_16_35Å
+Â
+R
+H/usr/src/database/migrations/2019_01_28_093034_create_articles_table.php (
+
+%2")illuminate\support\facades\schema::create*%"#
+!illuminate\support\facades\schema*
+
+articles*
+
+%1*
+2B
+createarticlestable

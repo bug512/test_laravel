@@ -1,0 +1,18 @@
+
+createarticletagstable::downV
+L/usr/src/database/migrations/2019_01_28_111518_create_article_tags_table.php" "("1*¥
+21
+/2019_01_28_111518_create_article_tags_table.php"m
+V
+L/usr/src/database/migrations/2019_01_28_111518_create_article_tags_table.php% %(
+implicit return*®
+1V
+L/usr/src/database/migrations/2019_01_28_111518_create_article_tags_table.php$ $(-Ë
+È
+V
+L/usr/src/database/migrations/2019_01_28_111518_create_article_tags_table.php$ $(,
+%1"/illuminate\support\facades\schema::dropifexists*%"#
+!illuminate\support\facades\schema*
+article_tags*
+2B
+createarticletagstable

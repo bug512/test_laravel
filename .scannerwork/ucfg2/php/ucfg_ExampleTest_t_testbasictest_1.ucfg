@@ -1,0 +1,28 @@
+
+(tests\feature\exampletest::testbasictest0
+&/usr/src/tests/Feature/ExampleTest.php (!"1*_
+2
+ExampleTest.php"G
+0
+&/usr/src/tests/Feature/ExampleTest.php (
+implicit return*Ò
+10
+&/usr/src/tests/Feature/ExampleTest.php ($ec
+0
+&/usr/src/tests/Feature/ExampleTest.php (#
+%1*
+tests\feature\exampletest*
+/2getO
+M
+0
+&/usr/src/tests/Feature/ExampleTest.php (#
+	$response"__id*
+
+%1^\
+0
+&/usr/src/tests/Feature/ExampleTest.php ($
+%2*
+
+	$response*2È2assertstatus*
+2B
+tests\feature\exampletest
