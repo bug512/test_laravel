@@ -1,7 +1,7 @@
 <gitinspector>
 	<version>0.5.0dev</version>
 	<repository>project</repository>
-	<report-date>2021/08/26</report-date>
+	<report-date>2021/08/28</report-date>
 	<changes>
 		<message>The following historical commit information, by author, was found</message>
 		<authors>
@@ -12,7 +12,16 @@
 				<commits>2</commits>
 				<insertions>3167</insertions>
 				<deletions>4</deletions>
-				<percentage-of-changes>100.00</percentage-of-changes>
+				<percentage-of-changes>99.91</percentage-of-changes>
+			</author>
+			<author>
+				<name>mezhennikov</name>
+				<email>mezhennikov@gmail.com</email>
+				<gravatar>https://www.gravatar.com/avatar/45cb6f84eb36d2da4ca950f3061fd0a5?default=identicon</gravatar>
+				<commits>1</commits>
+				<insertions>2</insertions>
+				<deletions>1</deletions>
+				<percentage-of-changes>0.09</percentage-of-changes>
 			</author>
 		</authors>
 	</changes>
@@ -23,10 +32,19 @@
 				<name>bug512</name>
 				<email>bug512@bk.ru</email>
 				<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
-				<rows>3163</rows>
+				<rows>3162</rows>
 				<stability>100.0</stability>
 				<age>0.0</age>
-				<percentage-in-comments>40.50</percentage-in-comments>
+				<percentage-in-comments>40.51</percentage-in-comments>
+			</author>
+			<author>
+				<name>mezhennikov</name>
+				<email>mezhennikov@gmail.com</email>
+				<gravatar>https://www.gravatar.com/avatar/45cb6f84eb36d2da4ca950f3061fd0a5?default=identicon</gravatar>
+				<rows>2</rows>
+				<stability>100.0</stability>
+				<age>0.0</age>
+				<percentage-in-comments>0.00</percentage-in-comments>
 			</author>
 		</authors>
 	</blame>
@@ -44,6 +62,18 @@
 					</author>
 				</authors>
 				<modified_rows>3171</modified_rows>
+			</period>
+			<period>
+				<name>2021W34</name>
+				<authors>
+					<author>
+						<name>mezhennikov</name>
+						<email>mezhennikov@gmail.com</email>
+						<gravatar>https://www.gravatar.com/avatar/45cb6f84eb36d2da4ca950f3061fd0a5?default=identicon</gravatar>
+						<work>--------++++++++++++++++</work>
+					</author>
+				</authors>
+				<modified_rows>3</modified_rows>
 			</period>
 		</periods>
 	</timeline>
