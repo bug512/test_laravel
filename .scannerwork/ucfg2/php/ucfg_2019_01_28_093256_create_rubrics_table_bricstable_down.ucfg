@@ -1,18 +1,0 @@
-
-createrubricstable::downQ
-G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php ("1*›
-2,
-*2019_01_28_093256_create_rubrics_table.php"h
-Q
-G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php (
-implicit return*Ÿ
-1Q
-G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php ((Á
-¾
-Q
-G/usr/src/database/migrations/2019_01_28_093256_create_rubrics_table.php ('
-%1"/illuminate\support\facades\schema::dropifexists*%"#
-!illuminate\support\facades\schema*	
-rubrics*
-2B
-createrubricstable
