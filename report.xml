@@ -12,7 +12,7 @@
 				<commits>2</commits>
 				<insertions>3167</insertions>
 				<deletions>4</deletions>
-				<percentage-of-changes>74.75</percentage-of-changes>
+				<percentage-of-changes>69.94</percentage-of-changes>
 			</author>
 			<author>
 				<name>bug512</name>
@@ -21,16 +21,16 @@
 				<commits>5</commits>
 				<insertions>677</insertions>
 				<deletions>385</deletions>
-				<percentage-of-changes>25.04</percentage-of-changes>
+				<percentage-of-changes>23.42</percentage-of-changes>
 			</author>
 			<author>
 				<name>mezhennikov</name>
 				<email>mezhennikov@gmail.com</email>
 				<gravatar>https://www.gravatar.com/avatar/45cb6f84eb36d2da4ca950f3061fd0a5?default=identicon</gravatar>
-				<commits>3</commits>
+				<commits>4</commits>
 				<insertions>8</insertions>
-				<deletions>1</deletions>
-				<percentage-of-changes>0.21</percentage-of-changes>
+				<deletions>293</deletions>
+				<percentage-of-changes>6.64</percentage-of-changes>
 			</author>
 		</authors>
 	</changes>
@@ -41,10 +41,10 @@
 				<name>bug512</name>
 				<email>bug512@bk.ru</email>
 				<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
-				<rows>3454</rows>
-				<stability>510.2</stability>
+				<rows>3162</rows>
+				<stability>467.1</stability>
 				<age>0.0</age>
-				<percentage-in-comments>37.64</percentage-in-comments>
+				<percentage-in-comments>40.51</percentage-in-comments>
 			</author>
 			<author>
 				<name>mezhennikov</name>
@@ -97,10 +97,16 @@
 						<name>bug512</name>
 						<email>bug512@bk.ru</email>
 						<gravatar>https://www.gravatar.com/avatar/51f2c8f00f56fc77077ad86d49e6d9d5?default=identicon</gravatar>
-						<work>------------++++++++++++</work>
+						<work>-------+++++++</work>
+					</author>
+					<author>
+						<name>mezhennikov</name>
+						<email>mezhennikov@gmail.com</email>
+						<gravatar>https://www.gravatar.com/avatar/45cb6f84eb36d2da4ca950f3061fd0a5?default=identicon</gravatar>
+						<work>------------------------</work>
 					</author>
 				</authors>
-				<modified_rows>186</modified_rows>
+				<modified_rows>478</modified_rows>
 			</period>
 		</periods>
 	</timeline>
