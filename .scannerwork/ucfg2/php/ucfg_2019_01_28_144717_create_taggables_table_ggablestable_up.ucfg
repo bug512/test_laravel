@@ -1,26 +1,0 @@
-
-createtaggablestable::upS
-I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php ("1*Ÿ
-2.
-,2019_01_28_144717_create_taggables_table.php"j
-S
-I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (
-implicit return*ÿ
-1S
-I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (Õ
-Ò
-S
-I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php$ (	
-%1"__declareFunction*b`
-^__sonar_lambda_/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php_16_36Ç
-Ä
-S
-I/usr/src/database/migrations/2019_01_28_144717_create_taggables_table.php (
-
-%2")illuminate\support\facades\schema::create*%"#
-!illuminate\support\facades\schema*
-	taggables*
-
-%1*
-2B
-createtaggablestable
